@@ -1,0 +1,1 @@
+source /home/user/trial-rept-oga/.venv/bin/activate

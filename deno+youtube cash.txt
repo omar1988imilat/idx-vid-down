@@ -1,0 +1,9 @@
+source /home/user/trial-rept-oga/.venv/bin/activate
+
+curl -fsSL https://deno.land/install.sh | sh
+
+yt-dlp --rm-cache-dir
+
+pip install -U --pre "yt-dlp[default]"
+
+update 

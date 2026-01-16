@@ -1,0 +1,48 @@
+Video Downloader & Uploader
+Powered by yt-dlp, FFmpeg & Pixeldrain
+
+❌ Error!
+0%
+[generic] Extracting URL: https://tgtsporn.com/videos/138316/manyvids-emma-rose-carrie-emberlyn-intimate-session/
+[generic] manyvids-emma-rose-carrie-emberlyn-intimate-session: Downloading webpage
+WARNING: [generic] Falling back on generic information extractor
+[generic] manyvids-emma-rose-carrie-emberlyn-intimate-session: Extracting information
+[info] 138316: Downloading 1 format(s): 720p
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (1/10)...
+[download] Got error: HTTPSConnectionPool(host='marl.tgprn.com', port=443): Read timed out. (read timeout=20.0). Retrying (2/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (3/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (4/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (5/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (6/10)...
+[download] Got error: HTTPSConnectionPool(host='marl.tgprn.com', port=443): Read timed out. (read timeout=20.0). Retrying (7/10)...
+[download] Got error: HTTPSConnectionPool(host='marl.tgprn.com', port=443): Read timed out. (read timeout=20.0). Retrying (8/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (9/10)...
+[download] Got error: HTTP Error 502: Bad Gateway. Retrying (10/10)...
+ERROR:
+[download] Got error: HTTP Error 502: Bad Gateway. Giving up after 10 retries
+
+
+ERROR: Command '['yt-dlp', '-f', '720p', '-o', '/home/runner/workspace/downloads/ManyVids Emma Rose + Carrie Emberlyn _ Intimate Session.mkv', '--merge-output-format', 'mkv', 'https://tgtsporn.com/videos/138316/manyvids-emma-rose-carrie-emberlyn-intimate-session/', '--cookies', '/home/runner/workspace/youtube_cookies.txt']' returned non-zero exit status 1.
+Advanced Download
+Video URL:
+
+Fetch Formats
+
+Direct URL Download
+URL (Video, Playlist, or any direct file):
+
+ Upload to Pixeldrain after download
+Download to Server Upload to Pixeldrain
+Upload File to Pixeldrain
+Select a file from your computer:
+No file chosen
+Upload Directly
+Manual Format Merge
+Fetch formats from a URL, then manually provide the Video and Audio IDs to merge into an MKV file.
+
+Page URL:
+https://tgtsporn.com/videos/138316/manyvids-emma-rose-carrie-emberlyn-intimate-session/
+
+Fetch Formats
+
+📂 Manage Downloaded Files
